@@ -3,9 +3,9 @@ title: Konstantinos Emmanouilidis
 role: ""
 bio: ""
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - MachineLearning
+  - LargeScaleOptimization
+  - TheoreticalComputerScience
 social:
   - icon: envelope
     icon_pack: fas
@@ -25,20 +25,23 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
-organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - display:
+      header: false
+    icon_pack: ai
+    icon: https://github.com/emmanouilidisk
+    link: https://github.com/emmanouilidisk
+organizations: []
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: International Mathematics Competition (IMC) - Bronze Medal
+      year: 2019
+      institution: " "
+    - course: South Eastern European Mathematical Olympiad - Bronze Medal
+      year: 2019
+      institution: " "
+    - course: South Eastern European Mathematical Olympiad - Bronze Medal
+      year: 2018
+      institution: " "
 superuser: true
 last_name: Bighetti
 highlight_name: true
