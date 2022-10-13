@@ -34,7 +34,7 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-Hi! \
+\
 I am a 1st-year Ph.D. student at the Department of Computer Science of Johns Hopkins University (JHU) advised by Professor Rene Vidal and Nicolas Loizou. 
 
 My research interests lie in the intersection of theoretical computer science with machine learning and optimization, focusing on providing algorithms with theoretical guarantees for the large-scale machine learning regime.
