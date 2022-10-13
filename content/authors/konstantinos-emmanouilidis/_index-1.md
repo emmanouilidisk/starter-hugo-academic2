@@ -6,7 +6,6 @@ bio: ""
 interests:
   - Machine Learning
   - Large Scale Optimization
-  - Theoretical Computer Science
 social:
   - icon: envelope
     icon_pack: fas
