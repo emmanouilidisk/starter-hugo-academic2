@@ -3,13 +3,13 @@ title: Konstantinos Emmanouilidis
 role: ""
 bio: ""
 interests:
-  - MachineLearning
-  - LargeScaleOptimization
-  - TheoreticalComputerScience
+  - Machine Learning
+  - Large Scale Optimization
+  - Theoretical Computer Science
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: /emmanouilidis.kons@gmail.com
   - icon: github
     icon_pack: fab
     link: https://github.com/emmanouilidisk
