@@ -1,7 +1,7 @@
 ---
 title: Konstantinos Emmanouilidis
 role: ""
-avatar_filename: _index.md
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Machine Learning
