@@ -3,9 +3,9 @@ title: Konstantinos Emmanouilidis
 role: ""
 bio: ""
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning
+  - Large Scale Optimization
+  - Theoretical Computer Science
 social:
   - icon: envelope
     icon_pack: fas
